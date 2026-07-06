@@ -19,7 +19,7 @@ I’ve completed Patrick Collins’ **[Cyfrin Updraft](https://updraft.cyfrin.io
 
 - **Languages:** Solidity, Python, SQL.
 - **Frameworks:** [Foundry](https://www.getfoundry.sh)
-- **Courses:** [Cyfrin Updraft](https://updraft.cyfrin.io) (Patrick Collins)  
+- **Courses:** [Cyfrin Updraft](https://updraft.cyfrin.io)   
 
 ---
 
