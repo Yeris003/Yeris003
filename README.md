@@ -16,7 +16,7 @@ I’ve completed Patrick Collins’ **[Cyfrin Updraft](https://updraft.cyfrin.io
 
 - Favorite books: How to Change Your Mind by Michael Pollan and The Future of the Mind by Michio Kaku.
 
-- Born in San José, California, raised in Mexico.
+- Born in the U.S.A California, raised in Mexico.
 
 - Currently learning Mandarin Chinese.
 
