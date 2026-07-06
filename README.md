@@ -2,6 +2,7 @@
 
 I’m **YeRiis**, a Sustainable Energy Business Engineer from **IPN, Mexico**.
 I’m passionate about empowering people through **decentralized solutions**, whether in electricity, finance, or environmental systems.
+
 ---
 
 
