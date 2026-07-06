@@ -7,12 +7,20 @@ I’m passionate about empowering people through **decentralized solutions**, wh
 
 My main interests lie in **Distributed Ledger Technologies (DLTs)** such as **Blockchain** and **Directed Acyclic Graphs (DAGs)**.
 I first discovered this field during the COVID‑19 pandemic, when I came across [Energy Web Foundation](https://www.energyweb.org), [Power Ledger](https://www.powerledger.io), and [FlexiDAO](https://www.flexidao.com) ... projects that use blockchain to **certify renewable energy and enable transparent, traceable energy markets**.
----
 
 
 Since then, I’ve been learning how to make **Web3** tangible through **smart contracts**.
 I’ve completed Patrick Collins’ **[Cyfrin Updraft](https://updraft.cyfrin.io)** courses, where I learned **Solidity** and how to use **Foundry** to build and deploy **decentralized applications**.
 
+---
+
+### 🛠 Tools & Tech
+
+- **Languages:** Solidity, Python, SQL.
+- **Frameworks:** [Foundry](https://www.getfoundry.sh)
+- **Courses:** [Cyfrin Updraft](https://updraft.cyfrin.io) (Patrick Collins)  
+
+---
 
 ### Fun Facts 🌱
 
