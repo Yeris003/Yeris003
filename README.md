@@ -2,10 +2,12 @@
 
 I’m **YeRiis**, a Sustainable Energy Business Engineer from **IPN, Mexico**.
 I’m passionate about empowering people through **decentralized solutions**, whether in electricity, finance, or environmental systems.
+---
 
 
 My main interests lie in **Distributed Ledger Technologies (DLTs)** such as **Blockchain** and **Directed Acyclic Graphs (DAGs)**.
 I first discovered this field during the COVID‑19 pandemic, when I came across [Energy Web Foundation](https://www.energyweb.org), [Power Ledger](https://www.powerledger.io), and [FlexiDAO](https://www.flexidao.com) ... projects that use blockchain to **certify renewable energy and enable transparent, traceable energy markets**.
+---
 
 
 Since then, I’ve been learning how to make **Web3** tangible through **smart contracts**.
